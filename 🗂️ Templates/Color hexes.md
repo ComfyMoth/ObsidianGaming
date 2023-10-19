@@ -1,0 +1,6 @@
+<span style="color:#f4641e">STR (strength)</span> (oranje)
+<span style="color:#a364d9">DEX (dexterity)</span> (purple)
+<span style="color:#db3937">CON (constitution)</span> (red)
+<span style="color:blue">INT (Intelligence)</span> (geel)
+<span style="color:blue">WIS (wisdom)</span> (wisdom)
+<span style="color:blue">CHA (charisma)</span> (groen)
