@@ -158,6 +158,16 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "da7396c3719a959f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       },
