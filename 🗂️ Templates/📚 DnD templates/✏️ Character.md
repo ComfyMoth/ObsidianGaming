@@ -7,3 +7,60 @@ Date created: <% tp.file.creation_date() %>
 <h1>NAME</h1>
 <i>Age | Pronouns | Race</i>
 </center>
+# General
+---
+**Name**: 
+	*meaning*: 
+	*nickname*:
+**Age**:
+	*birthday*:
+	*star sign*:
+**Gender**:
+	*pronouns*:
+**Orientation**:
+**Race**:
+
+**Occupation**:
+**Class**:
+**Patron(s)**:
+
+**Theme song(s)**: [spotify playlist]()
+**Aesthetics**:
+
+# Personality
+---
+**Positive:**
+- text
+- text
+- text
+
+**Neutral**:
+- text
+- text
+- text
+
+**Negative**:
+- text
+- text
+- text
+
+**Quirks**:
+
+# Backstory
+---
+**Homeland**:
+**Background**:
+
+**History**:
+
+**Current day**:
+
+# Extra
+---
+## Looks:
+**Hair**:
+**Eye color**:
+**Height**:
+**Build**:
+
+**Extra**:
