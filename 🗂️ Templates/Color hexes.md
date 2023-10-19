@@ -7,3 +7,5 @@
 
 <span style="color:#f8c48a">succeed a saving throw</span>
 <span style="color:#b4245c">disadvantage</span>
+
+<span style="color:#98f2cb">necrotic</span>

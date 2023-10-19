@@ -8,6 +8,7 @@
 
 [Wizard spells](http://dnd5e.wikidot.com/spells:wizard)
 # Cantrips
+---
 **Known cantrips**: 3
 ## Toll the Dead
 [Wikibot](http://dnd5e.wikidot.com/spell:toll-the-dead) | Xanathar's Guide to Everything
@@ -43,9 +44,27 @@ _**At higher levels**_: This spell’s damage increases by 1d8 when you reach 5t
 **Range**: 30 feet
 **Components**: V, S
 **Duration**: Instantaneous
-You sap the vitality of one creature you can see in range. The target must succeed on a <span style="color:#db3937">CON (constitution)</span> <span style="color:#f8c48a">succeed a saving throw</span> or take `dice: 1d4` necrotic damage and fall prone.
+You sap the vitality of one creature you can see in range. 
+The target must <span style="color:#f8c48a">succeed</span> on a <span style="color:#db3937">CON (constitution)</span> <span style="color:#f8c48a">saving throw</span> or take `dice: 1d4` <span style="color:#98f2cb">necrotic</span> damage and fall prone.
 
 _**At higher levels**_: This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
 # Lvl 1 spell slots
+---
+**Aantal wizard spells**: 3
+	<span style="color:#fecc2f">INT</span> modifier (+2) + Wizard lvl (1)
+	Every level up: Add two spells to spellbook
 **Total slots: 2**
+
+## Disguise Self
+[wikibot](http://dnd5e.wikidot.com/spell:disguise-self) | Player's Handbook
+*1st-level illusion*
+
+**Casting Time**: 1 action
+**Range**: Self
+**Components**: V, S
+**Duration**: 1 hour
+
+You make yourself – including your clothing, armor, weapons, and other belongings on your person – look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+
+The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair. To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
