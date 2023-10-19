@@ -4,8 +4,7 @@
 
 <center>   <img src="https://i.pinimg.com/564x/36/47/d6/3647d66a2c594ff5869c108bbc628a45.jpg" style="width:150px;height:150px;padding:5px;border-radius:300px;object-fit:cover;" alt="SDXzzV4.jpg"> <img src="https://i.pinimg.com/564x/bc/33/da/bc33da7c4bd8fc2f280d5c5be495a46e.jpg" style="width:150px;height:150px;padding:5px;border-radius:300px;object-fit:cover;" alt="NWX79yY.jpg"> <img src="https://i.pinimg.com/564x/bd/2c/95/bd2c957a64a1a1e34181763b2bf5b371.jpg" style="width:150px;height:150px;padding:5px;border-radius:300px;object-fit:cover;" alt="npPvQ9a.png">
 </center>
- <h1>General</h1>
-
+# General
 ---
 
 Name: Fernweh
@@ -83,3 +82,5 @@ Extra
 
 ![[Pasted image 20231019173725.png]] ![[Pasted image 20231019173737.png]] ![[Pasted image 20231019173653.png]]
 (art by @/arcanegold on X)
+
+# Character sheet
