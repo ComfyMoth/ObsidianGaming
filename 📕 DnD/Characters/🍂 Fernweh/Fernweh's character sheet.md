@@ -20,7 +20,7 @@ Orientation: Unknown
 Race: Satyr
 	Using the legacy version for more lore (<a href="https://anyflip.com/rbal/nqho">page 25-26</a>)
 
-Occupation / Class: Wizard
+Occupation / Class: [[Wizard]]
 Patron: Silvanus, Deneir:
 - <a href="https://forgottenrealms.fandom.com/wiki/Silvanus">Silvanus</a>: the [Celtic](https://forgottenrealms.fandom.com/wiki/Celtic_pantheon "Celtic pantheon") and [Faerunian](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBnian_pantheon "Faerûnian pantheon") [power](https://forgottenrealms.fandom.com/wiki/Power "Power") of wild nature
 	- Believes in Silvanus cause of the druidic nature of his race. (satyr)

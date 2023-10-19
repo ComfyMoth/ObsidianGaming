@@ -1,5 +1,5 @@
 # info
-**Spellcasting class**: Wizard
+**Spellcasting class**: [[Wizard]]
 **Spellcasting ability**: INT
 **Spell save DC**: 12
 	8 + Proficieny bonus + int
