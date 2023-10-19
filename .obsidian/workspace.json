@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9c7d5dcb1b58a42d",
+        "id": "f24170e7476ebea7",
         "type": "tabs",
         "children": [
           {
-            "id": "e9062633172b562a",
+            "id": "e3fbc7ba38e37f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📕 DnD/Characters/🍂 Fernweh/Fernweh - Spellbook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30fdd360988f875f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +193,15 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "e9062633172b562a",
+  "active": "30fdd360988f875f",
   "lastOpenFiles": [
-    "📕 DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
+    "Plugins.md",
     "📕 DnD/Characters/🍂 Fernweh/Fernweh - Spellbook.md",
+    "Sources",
+    "📕 DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
     "📕 DnD/Classes/Wizard.md",
     "📕 DnD/📕 DnD.md",
-    "📷 Images",
+    "Sources/📷 Images",
     "📕 DnD/Characters",
     "📕 DnD/Classes",
     "🗂️ Templates/🗂️ Templates.md",
