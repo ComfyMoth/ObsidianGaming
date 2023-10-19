@@ -2,5 +2,9 @@
   "obsidian-git",
   "quickadd",
   "table-editor-obsidian",
-  "calendar"
+  "calendar",
+  "obsidian-dice-roller",
+  "obsidian-checklist-plugin",
+  "folder-note-plugin",
+  "obsidian-5e-statblocks"
 ]

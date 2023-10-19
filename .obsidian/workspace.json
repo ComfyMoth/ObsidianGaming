@@ -145,8 +145,25 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "8a609b70f7cf14d5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "23c71ded8195e12a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -164,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2ba4b4075c2e1d4",
+  "active": "23c71ded8195e12a",
   "lastOpenFiles": [
     "Templates/Character.md",
     "Templates/DnD templates",
