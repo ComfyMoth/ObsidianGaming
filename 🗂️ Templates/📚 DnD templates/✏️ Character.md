@@ -26,7 +26,16 @@ Date created: <% tp.file.creation_date() %>
 
 **Theme song(s)**: [spotify playlist]()
 **Aesthetics**:
+**Scent**:
 
+**Likes**:
+- text
+- text
+- text
+**Dislikes**:
+- text
+- text
+- text
 # Personality
 ---
 **Positive:**
