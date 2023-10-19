@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 DnD/Characters/🍂 Fernweh/Fernweh - Spellbook.md",
+                "file": "📕 DnD/Characters/🍂 Fernweh/Fernweh's character sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 DnD/Characters/🍂 Fernweh/Ignis - Fernweh Familiar.md",
+                "file": "📕 DnD/Characters/🍂 Fernweh/Ignis - Fernweh's Familiar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 DnD/Characters/🍂 Fernweh/Ignis - Fernweh Familiar.md",
+                "file": "📕 DnD/Characters/🍂 Fernweh/Fernweh's character sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 DnD/Characters/🍂 Fernweh/Ignis - Fernweh Familiar.md",
+                "file": "📕 DnD/Characters/🍂 Fernweh/Fernweh's character sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 DnD/Characters/🍂 Fernweh/Ignis - Fernweh Familiar.md"
+                "file": "📕 DnD/Characters/🍂 Fernweh/Fernweh's character sheet.md"
               }
             }
           },
@@ -216,11 +215,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "2f83853c1734ba54",
+  "active": "e3fbc7ba38e37f92",
   "lastOpenFiles": [
+    "Sources/📷 Images/Pasted image 20231019173737.png",
+    "Sources/📷 Images/Pasted image 20231019173725.png",
+    "Sources/📷 Images/Pasted image 20231019173653.png",
+    "📕 DnD/Characters/🍂 Fernweh/Fern's Spellbook.md",
+    "Pasted image 20231017092618.png.md",
+    "📕 DnD/Characters/🍂 Fernweh/Fernweh's character sheet.md",
+    "📕 DnD/Characters/🍂 Fernweh/Ignis - Fernweh's Familiar.md",
     "🗂️ Templates/Color hexes.md",
-    "📕 DnD/Characters/🍂 Fernweh/Ignis - Fernweh Familiar.md",
-    "📕 DnD/Characters/🍂 Fernweh/Fernweh - Spellbook.md",
     "Plugins.md",
     "🗂️ Templates/🗂️ Templates.md",
     "📕 DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
