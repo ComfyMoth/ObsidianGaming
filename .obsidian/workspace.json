@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65c27288f9ff6c68",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "c2ba4b4075c2e1d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "🗂️ Templates/Character.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,12 +80,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9548f50372028e12",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "432d7d613dc4d9ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "🗂️ Templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "🗂️ Templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,24 +133,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Character.md"
+                "file": "🗂️ Templates/Character.md"
               }
-            }
-          },
-          {
-            "id": "9548f50372028e12",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "8a609b70f7cf14d5",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           },
           {
@@ -162,13 +145,25 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
+      },
+      {
+        "id": "30e0c7acc784beac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a609b70f7cf14d5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,15 +173,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "23c71ded8195e12a",
+  "active": "9548f50372028e12",
   "lastOpenFiles": [
-    "Templates/Character.md",
-    "Templates/DnD templates",
+    "🗂️ Templates/Character.md",
+    "🗂️ Templates/DnD templates",
     "Untitled",
-    "Templates",
+    "🗂️ Templates",
     "DnD"
   ]
 }
