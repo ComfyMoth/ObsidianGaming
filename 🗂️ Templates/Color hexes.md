@@ -6,4 +6,4 @@
 <span style="color:#b2c325">CHA (charisma)</span> (groen)
 
 <span style="color:#f8c48a">succeed a saving throw</span>
-<span style="color:#f8c48a">disadvantage</span>
+<span style="color:#b4245c">disadvantage</span>

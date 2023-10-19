@@ -12,6 +12,7 @@
 ## Toll the Dead
 [Wikibot](http://dnd5e.wikidot.com/spell:toll-the-dead) | Xanathar's Guide to Everything
 _Necromancy cantrip_
+
 **Casting Time**: 1 action
 **Range**: 60 feet
 **Components**: V, S
@@ -23,17 +24,28 @@ _**At higher levels**_: The spell’s damage increases by one die when you reach
 ## Chill touch
 [Wikibot](http://dnd5e.wikidot.com/spell:chill-touch) | Player's Handbook
 *Necromancy cantrip*
+
 **Casting Time**: 1 action
 **Range**: 120 feet
 **Components**: V, S
 **Duration**: 1 round
 You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. 
 On a hit, the target takes `dice: 1d8` <span style="color:#98f2cb">necrotic</span> damage, and it can’t regain hit points until the start of your next turn. 
-Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
+Until then, the hand clings to the target. If you hit an undead target, it also has <span style="color:#b4245c">disadvantage</span> on attack rolls against you until the end of your next turn.
 
 _**At higher levels**_: This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
+## Sapping sting
+[wikibot](http://dnd5e.wikidot.com/spell:sapping-sting) | Explorer's Guide to Wildemount
+*necromancy cantrip*
 
+**Casting Time**: 1 action
+**Range**: 30 feet
+**Components**: V, S
+**Duration**: Instantaneous
+You sap the vitality of one creature you can see in range. The target must succeed on a <span style="color:#db3937">CON (constitution)</span> <span style="color:#f8c48a">succeed a saving throw</span> or take `dice: 1d4` necrotic damage and fall prone.
+
+_**At higher levels**_: This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
 # Lvl 1 spell slots
 **Total slots: 2**
