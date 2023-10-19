@@ -6,6 +6,7 @@
 <span style="color:#b2c325">CHA (charisma)</span> (groen)
 
 <span style="color:#f8c48a">succeed a saving throw</span>
-<span style="color:#b4245c">disadvantage</span>
+<span style="color:#88c426">advantage</span>
+<span style="color:#1c676c">disadvantage</span>
 
 <span style="color:#98f2cb">necrotic</span>
