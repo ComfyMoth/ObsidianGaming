@@ -8,6 +8,9 @@
 
 # Cantrips
 **Known cantrips**: 3
+## Toll the Dead
+[source](http://dnd5e.wikidot.com/spell:toll-the-dead) | Xanathar's Guide to Everything
+
 
 # Lvl 1 spell slots
 **Total slots: 2**
