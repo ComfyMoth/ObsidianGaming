@@ -2,16 +2,15 @@ prr
 
 ```statblock
 image: [[Wikilink To Image]]
-name: string
-size: string
-type: string
-subtype: string
-alignment: string
-ac: number
-hp: number
-hit_dice: string
-speed: string
-stats: [number, number, number, number, number, number]
+name: Ignis [Tressym]
+size: tiny
+type: beast
+alignment: chaotic neutral
+ac: 12
+hp: 5 
+hit_dice: 2d4
+speed: 40
+stats: [3, 15, 10, 11, 12, 12]
 fage_stats: [number, number, number, number, number, number, number, number, number]
 saves:
   - <ability-score>: number

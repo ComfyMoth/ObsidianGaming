@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "📕 DnD/Characters/🍂 Fernweh/Ignis - Fernweh Familiar.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8df99805e968e9f7",
@@ -200,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
