@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe38ff0d95f9896d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b01c3df74754b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d8bdfe58ef1bfc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,6 +115,7 @@
       {
         "id": "ef95134c20a1e349",
         "type": "tabs",
+        "dimension": 30.76923076923077,
         "children": [
           {
             "id": "9548f50372028e12",
@@ -93,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂️ Templates/Character.md",
+                "file": "DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗂️ Templates/Character.md",
+                "file": "DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗂️ Templates/Character.md"
+                "file": "DnD/Characters/🍂 Fernweh/🍂 Fernweh.md"
               }
             }
           },
@@ -150,6 +188,7 @@
       {
         "id": "30e0c7acc784beac",
         "type": "tabs",
+        "dimension": 69.23076923076923,
         "children": [
           {
             "id": "8a609b70f7cf14d5",
@@ -177,11 +216,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "9548f50372028e12",
+  "active": "1886817053d44761",
   "lastOpenFiles": [
+    "DnD/Characters/🍂 Fernweh/Fernweh Spellbook.md",
+    "DnD/Characters",
+    "DnD/Classes",
+    "DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
+    "🗂️ Templates/🗂️ Templates.md",
     "🗂️ Templates/Character.md",
+    "DnD/Characters/🍂 Fernweh",
     "🗂️ Templates/DnD templates",
-    "Untitled",
     "🗂️ Templates",
     "DnD"
   ]
