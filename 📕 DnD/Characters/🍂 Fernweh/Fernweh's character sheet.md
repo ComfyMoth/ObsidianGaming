@@ -83,4 +83,4 @@ Extra
 ![[Pasted image 20231019173725.png]] ![[Pasted image 20231019173737.png]] ![[Pasted image 20231019173653.png]]
 (art by @/arcanegold on X)
 
-# Character sheet
+# Character she
