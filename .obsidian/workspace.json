@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "30fdd360988f875f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂️ Templates/🗂️ Templates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "52f3421c1d0defed",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8df99805e968e9f7",
@@ -215,11 +204,11 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "1886817053d44761",
+  "active": "52f3421c1d0defed",
   "lastOpenFiles": [
-    "🗂️ Templates/🗂️ Templates.md",
-    "🗂️ Templates/Color hexes.md",
     "📕 DnD/Characters/🍂 Fernweh/Fernweh - Spellbook.md",
+    "🗂️ Templates/Color hexes.md",
+    "🗂️ Templates/🗂️ Templates.md",
     "📕 DnD/Characters/🍂 Fernweh/🍂 Fernweh.md",
     "📕 DnD/Classes/Wizard.md",
     "Plugins.md",
