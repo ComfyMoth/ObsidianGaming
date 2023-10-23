@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fern's Spellbook.md",
+                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fern's Spellbook.md",
+                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fern's Spellbook.md",
+                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fern's Spellbook.md"
+                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md"
               }
             }
           },
@@ -192,15 +192,17 @@
   },
   "active": "e3fbc7ba38e37f92",
   "lastOpenFiles": [
+    "🗂️ Templates/Color hexes.md",
+    "🗂️ Templates/🗂️ Templates.md",
+    "📕 DnD/Classes/Wizard.md",
+    "📕 DnD/✏️ Characters/🍂 Fernweh/🍂 Fernweh.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Ignis - Fernweh's Familiar.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's character sheet.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fern's Spellbook.md",
-    "📕 DnD/✏️ Characters/🍂 Fernweh/🍂 Fernweh.md",
     "📕 DnD/✏️ Characters/✏️ Characters.md",
     "📕 DnD/📕 DnD.md",
     "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
     "🗂️ Templates/📚 DnD templates/✏️ Character.md",
-    "🗂️ Templates/🗂️ Templates.md",
     "🐉 World Of Warcraft/✏️ Characters/AstralHunter - Hunter.md",
     "🐉 World Of Warcraft/✏️ Characters",
     "📚 Notes/✏️ Daily notes/2023-10-18.md",
@@ -210,11 +212,9 @@
     "📚 Notes/✏️ Weekly notes",
     "📚 Notes/✏️ Daily notes",
     "📚 Notes",
-    "📕 DnD/Classes/Wizard.md",
     "🐉 World Of Warcraft",
     "Pasted image 20231017092618.png.md",
     "Example.md",
-    "🗂️ Templates/Color hexes.md",
     "Sources/📷 Images/Pasted image 20231019173737.png",
     "Sources/📷 Images/Pasted image 20231019173725.png",
     "Sources/📷 Images/Pasted image 20231019173653.png",

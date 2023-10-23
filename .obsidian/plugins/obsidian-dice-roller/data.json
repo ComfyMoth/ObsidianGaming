@@ -11,7 +11,43 @@
   "displayLookupRoll": true,
   "formulas": {},
   "persistResults": true,
-  "results": {},
+  "results": {
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Fern's Spellbook.md": {
+      "16": {
+        "0": {
+          "type": "dice",
+          "result": 5,
+          "tooltip": "1d8\n[5]"
+        },
+        "1": {
+          "type": "dice",
+          "result": 7,
+          "tooltip": "1d12\n[7]"
+        }
+      },
+      "28": {
+        "0": {
+          "type": "dice",
+          "result": 1,
+          "tooltip": "1d8\n[1]"
+        }
+      },
+      "42": {
+        "0": {
+          "type": "dice",
+          "result": 2,
+          "tooltip": "1d4\n[2]"
+        }
+      },
+      "101": {
+        "0": {
+          "type": "dice",
+          "result": 4,
+          "tooltip": "1d4 + 1\n[3] + 1"
+        }
+      }
+    }
+  },
   "defaultRoll": 1,
   "defaultFace": 100,
   "renderer": false,
