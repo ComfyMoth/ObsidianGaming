@@ -17,6 +17,15 @@
 
 **Passive Wisdom**: 11
 
+**Armor class**: 13
+**Iniative**: +3 `dice: 1d20 + 3`
+**Speed**: 35 ft
+
+**HP Maxiumum**: 6
+**Current HP**: 
+**Temporary HP**:
+
+
 ### Skills + Saving throws
 <b><span style="color:#fecc2f">Profiency bonus</span></b>: +2
 
