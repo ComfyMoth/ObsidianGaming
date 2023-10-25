@@ -55,6 +55,41 @@
           "tooltip": "2d4\n[3, 1]"
         }
       }
+    },
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md": {
+      "16": {
+        "0": {
+          "type": "dice",
+          "result": 6,
+          "tooltip": "1d8\n[6]"
+        },
+        "1": {
+          "type": "dice",
+          "result": 3,
+          "tooltip": "1d12\n[3]"
+        }
+      },
+      "28": {
+        "0": {
+          "type": "dice",
+          "result": 7,
+          "tooltip": "1d8\n[7]"
+        }
+      },
+      "42": {
+        "0": {
+          "type": "dice",
+          "result": 3,
+          "tooltip": "1d4\n[3]"
+        }
+      },
+      "101": {
+        "0": {
+          "type": "dice",
+          "result": 5,
+          "tooltip": "1d4 + 1\n[4] + 1"
+        }
+      }
     }
   },
   "defaultRoll": 1,
