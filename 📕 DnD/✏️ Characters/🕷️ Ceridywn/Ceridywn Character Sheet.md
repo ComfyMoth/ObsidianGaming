@@ -20,7 +20,8 @@ Date created: 2023-10-25
 **Gender**: Non-Binary (Feminine Aligned)
 	*pronouns*: she/They
 **Orientation**: Bisexual
-**Race**: [Drow](https://www.dndbeyond.com/races/3-elf#DarkElfDrow)
+**Race**: [Drow](https://www.dndbeyond.com/races/3-elf#DarkElfDrow) 
+	[Source 01](https://www.skullsplitterdice.com/blogs/dnd/drow-5e)
 
 **Occupation**: 
 **Class**: [Druid](http://dnd5e.wikidot.com/druid)
