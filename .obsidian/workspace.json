@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's character sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c852b4abe4537fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,11 +215,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b47887c56a2bae00",
+  "active": "1886817053d44761",
   "lastOpenFiles": [
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's character sheet.md",
-    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Ignis - Fernweh's Familiar.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/🍂 Fernweh.md",
     "📕 DnD/✏️ Characters/✏️ Characters.md",
