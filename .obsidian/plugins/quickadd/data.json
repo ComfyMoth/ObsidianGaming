@@ -1,5 +1,34 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "75265528-e971-40f2-b255-7ab4d31a3d25",
+      "name": "Add ✏️ Character",
+      "type": "Template",
+      "command": true,
+      "templatePath": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
