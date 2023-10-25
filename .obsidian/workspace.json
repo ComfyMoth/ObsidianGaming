@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
+                "file": "📕 DnD/TBN .md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
+                "file": "📕 DnD/TBN .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
+                "file": "📕 DnD/TBN .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md"
+                "file": "📕 DnD/TBN .md"
               }
             }
           },
@@ -217,14 +217,16 @@
   },
   "active": "c852b4abe4537fca",
   "lastOpenFiles": [
+    "Sources/📷 Images/Pasted image 20231025095528.png",
+    "📕 DnD/✏️ Characters/🍂 Fernweh/🍂 Fernweh.md",
+    "📕 DnD/✏️ Characters/✏️ Characters.md",
+    "🗂️ Templates/📚 DnD templates/✏️ Character.md",
+    "📕 DnD/TBN .md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
     "Sources/📷 Images/Pasted image 20231025093706.png",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's character sheet.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Ignis - Fernweh's Familiar.md",
-    "📕 DnD/✏️ Characters/🍂 Fernweh/🍂 Fernweh.md",
-    "📕 DnD/✏️ Characters/✏️ Characters.md",
-    "🗂️ Templates/📚 DnD templates/✏️ Character.md",
     "🗂️ Templates/Color hexes.md",
     "🗂️ Templates/🗂️ Templates.md",
     "📕 DnD/Classes/Wizard.md",
