@@ -1,4 +1,5 @@
 <center>
+<img src="https://cdn.discordapp.com/attachments/1153019145554768086/1165579233322606643/IMG_5259.png?ex=65475d40&is=6534e840&hm=bc432fc711b90ec03f7ca5ebf40116f48a20f5e3881595cbc1dad7a9a5003253&"/>
 <h2>FERN</h2>
 <i>24 | He/They | Satyr</i></center>
 
@@ -10,7 +11,7 @@
 Name: Fernweh
 	Meaning: <i>an ache for distant places; the craving for travel</i>
 	Nickname: Fern
-Age 21
+Age 24
 	Birthday: Late autumn
 Gender: Male
 	Pronouns: He/They

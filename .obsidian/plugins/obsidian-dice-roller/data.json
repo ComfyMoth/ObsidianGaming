@@ -46,6 +46,15 @@
           "tooltip": "1d4 + 1\n[3] + 1"
         }
       }
+    },
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Ignis - Fernweh's Familiar.md": {
+      "5": {
+        "0": {
+          "type": "dice",
+          "result": 4,
+          "tooltip": "2d4\n[3, 1]"
+        }
+      }
     }
   },
   "defaultRoll": 1,

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
+                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b47887c56a2bae00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
+                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
+                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗂️ Templates/📚 DnD templates/✏️ Character.md"
+                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md"
               }
             }
           },
@@ -175,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,19 +203,20 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e3fbc7ba38e37f92",
+  "active": "b47887c56a2bae00",
   "lastOpenFiles": [
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's character sheet.md",
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Ignis - Fernweh's Familiar.md",
+    "📕 DnD/✏️ Characters/🍂 Fernweh/🍂 Fernweh.md",
+    "📕 DnD/✏️ Characters/✏️ Characters.md",
+    "🗂️ Templates/📚 DnD templates/✏️ Character.md",
     "🗂️ Templates/Color hexes.md",
     "🗂️ Templates/🗂️ Templates.md",
     "📕 DnD/Classes/Wizard.md",
-    "📕 DnD/✏️ Characters/🍂 Fernweh/🍂 Fernweh.md",
-    "📕 DnD/✏️ Characters/🍂 Fernweh/Ignis - Fernweh's Familiar.md",
-    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's character sheet.md",
-    "📕 DnD/✏️ Characters/🍂 Fernweh/Fern's Spellbook.md",
-    "📕 DnD/✏️ Characters/✏️ Characters.md",
     "📕 DnD/📕 DnD.md",
     "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
-    "🗂️ Templates/📚 DnD templates/✏️ Character.md",
     "🐉 World Of Warcraft/✏️ Characters/AstralHunter - Hunter.md",
     "🐉 World Of Warcraft/✏️ Characters",
     "📚 Notes/✏️ Daily notes/2023-10-18.md",
