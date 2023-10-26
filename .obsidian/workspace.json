@@ -114,21 +114,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6a49c191952f592e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -203,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
+                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
+                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐉 World Of Warcraft/📁 Collections/📁 Collections.md"
+                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md"
               }
             }
           },
@@ -265,6 +253,20 @@
         "dimension": 66.53846153846153,
         "children": [
           {
+            "id": "6a49c191952f592e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Home/🏠 Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "8a609b70f7cf14d5",
             "type": "leaf",
             "state": {
@@ -284,8 +286,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,20 +301,20 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6a49c191952f592e",
+  "active": "c74c9a7e4cb6bba6",
   "lastOpenFiles": [
-    "🐉 World Of Warcraft/✏️ Characters/✏️ Characters.md",
-    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
-    "🏠 Home/🔧 Settings.md",
+    "🏠 Home/🏠 Home.md",
     "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
+    "🐉 World Of Warcraft/✏️ Characters/✏️ Characters.md",
     "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
     "🐉 World Of Warcraft/📁 Collections/🐕 Pets/🐕 Pets.md",
     "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/👒 Transmogs.md",
     "🐉 World Of Warcraft/📁 Collections/🧸 Toys/🧸 Toys.md",
+    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+    "🏠 Home/🔧 Settings.md",
     "🐉 World Of Warcraft/📁 Collections/🧸 Toys",
     "🐉 World Of Warcraft/📁 Collections/🐕 Pets",
     "🐉 World Of Warcraft/📁 Collections/👒 Transmogs",
-    "🏠 Home/🏠 Home.md",
     "🗂️ Templates/🗂️ Templates.md",
     "🗂️ Templates/World of Warcraft/🐎 Mount Template.md",
     "🔧 Settings",
