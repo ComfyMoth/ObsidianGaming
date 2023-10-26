@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b47887c56a2bae00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's character sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c852b4abe4537fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📕 DnD/✏️ Characters/🕷️ Ceridywn/Ceridywn Character Sheet.md",
+                "file": "🗂️ Templates/🗂️ Templates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 DnD/✏️ Characters/🕷️ Ceridywn/Ceridywn Character Sheet.md",
+                "file": "🗂️ Templates/🗂️ Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 DnD/✏️ Characters/🕷️ Ceridywn/Ceridywn Character Sheet.md",
+                "file": "🗂️ Templates/🗂️ Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 DnD/✏️ Characters/🕷️ Ceridywn/Ceridywn Character Sheet.md"
+                "file": "🗂️ Templates/🗂️ Templates.md"
               }
             }
           },
@@ -200,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,15 +191,21 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c852b4abe4537fca",
+  "active": "e3fbc7ba38e37f92",
   "lastOpenFiles": [
-    "📕 DnD/✏️ Characters/🕷️ Ceridywn/🕷️ Ceridywn.md",
+    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+    "🗂️ Templates/World of Warcraft",
+    "🐉 World Of Warcraft/Collections/Mounts.md",
+    "🐉 World Of Warcraft/Collections/🐎 Mounts",
+    "🐉 World Of Warcraft/Collections/Mounts",
+    "🐉 World Of Warcraft/Collections",
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
+    "📕 DnD/✏️ Characters/🕷️ Ceridywn/Ceridywn Character Sheet.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's character sheet.md",
+    "📕 DnD/✏️ Characters/🕷️ Ceridywn/🕷️ Ceridywn.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Ignis - Fernweh's Familiar.md",
-    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/🍂 Fernweh.md",
-    "📕 DnD/✏️ Characters/🕷️ Ceridywn/Ceridywn Character Sheet.md",
     "().md",
     "📕 DnD/✏️ Characters/🕷️ Ceridywn",
     "Sources/📷 Images/Pasted image 20231025095528.png",
@@ -234,7 +216,6 @@
     "🗂️ Templates/🗂️ Templates.md",
     "📕 DnD/Classes/Wizard.md",
     "📕 DnD/📕 DnD.md",
-    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
     "🐉 World Of Warcraft/✏️ Characters/AstralHunter - Hunter.md",
     "🐉 World Of Warcraft/✏️ Characters",
     "📚 Notes/✏️ Daily notes/2023-10-18.md",
@@ -244,14 +225,10 @@
     "📚 Notes/✏️ Weekly notes",
     "📚 Notes/✏️ Daily notes",
     "📚 Notes",
-    "🐉 World Of Warcraft",
     "Pasted image 20231017092618.png.md",
     "Example.md",
     "Sources/📷 Images/Pasted image 20231019173737.png",
     "Sources/📷 Images/Pasted image 20231019173725.png",
-    "Sources/📷 Images/Pasted image 20231019173653.png",
-    "Sources",
-    "Sources/📷 Images",
-    "📕 DnD/✏️ Characters"
+    "Sources/📷 Images/Pasted image 20231019173653.png"
   ]
 }
