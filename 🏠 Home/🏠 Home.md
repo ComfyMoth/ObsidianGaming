@@ -1,0 +1,6 @@
+---
+tags:
+  - Hub/Home
+---
+# Index
+---
