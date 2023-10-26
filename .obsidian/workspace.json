@@ -49,14 +49,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠 Home/🔧 Settings.md",
+                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1688a23b2a0589e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐉 World Of Warcraft/Collections/🐎 Mounts/🐎 Mounts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f03de130828ee26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐉 World Of Warcraft/Collections/🐕 Pets/🐕 Pets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51da7fce38d3b385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐉 World Of Warcraft/Collections/👒 Transmogs/👒 Transmogs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1df08e0f702a982f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐉 World Of Warcraft/Collections/🐎 Mounts/🐎 Mounts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -131,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 Home/🔧 Settings.md",
+                "file": "🐉 World Of Warcraft/Collections/🐎 Mounts/🐎 Mounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠 Home/🔧 Settings.md",
+                "file": "🐉 World Of Warcraft/Collections/🐎 Mounts/🐎 Mounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠 Home/🔧 Settings.md"
+                "file": "🐉 World Of Warcraft/Collections/🐎 Mounts/🐎 Mounts.md"
               }
             }
           },
@@ -228,11 +276,18 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "1176bdc17b6a47b6",
+  "active": "1df08e0f702a982f",
   "lastOpenFiles": [
-    "🏠 Home/🏠 Home.md",
-    "🏠 Home/🔧 Settings.md",
+    "🐉 World Of Warcraft/Collections/🐕 Pets/🐕 Pets.md",
+    "🐉 World Of Warcraft/Collections/👒 Transmogs/👒 Transmogs.md",
+    "🐉 World Of Warcraft/Collections/🧸 Toys/🧸 Toys.md",
+    "🐉 World Of Warcraft/Collections/🐎 Mounts/🐎 Mounts.md",
     "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+    "🐉 World Of Warcraft/Collections/🧸 Toys",
+    "🐉 World Of Warcraft/Collections/🐕 Pets",
+    "🐉 World Of Warcraft/Collections/👒 Transmogs",
+    "🏠 Home/🔧 Settings.md",
+    "🏠 Home/🏠 Home.md",
     "🗂️ Templates/🗂️ Templates.md",
     "🗂️ Templates/World of Warcraft/🐎 Mount Template.md",
     "🔧 Settings",
@@ -259,14 +314,8 @@
     "📕 DnD/Classes/Wizard.md",
     "📕 DnD/📕 DnD.md",
     "🐉 World Of Warcraft/✏️ Characters/AstralHunter - Hunter.md",
-    "🐉 World Of Warcraft/✏️ Characters",
     "📚 Notes/✏️ Daily notes/2023-10-18.md",
     "Sources/Plugins.md",
-    "📚 Notes/✏️ Weekly notes/2023-W42.md",
-    "📚 Notes/✏️ Weekly notes",
-    "📚 Notes/✏️ Weekly notes",
-    "Pasted image 20231017092618.png.md",
-    "Example.md",
     "Sources/📷 Images/Pasted image 20231019173737.png",
     "Sources/📷 Images/Pasted image 20231019173725.png",
     "Sources/📷 Images/Pasted image 20231019173653.png"
