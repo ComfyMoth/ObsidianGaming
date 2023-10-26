@@ -97,26 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c74c9a7e4cb6bba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏠 Home/🔧 Settings.md",
-                "mode": "source",
+                "file": "🏠 Home/🏠 Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -191,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 Home/🔧 Settings.md",
+                "file": "🏠 Home/🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠 Home/🔧 Settings.md",
+                "file": "🏠 Home/🏠 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠 Home/🔧 Settings.md"
+                "file": "🏠 Home/🏠 Home.md"
               }
             }
           },
@@ -286,7 +274,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,34 +287,34 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "periodic-notes:Open this week": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "1886817053d44761",
+  "active": "1df08e0f702a982f",
   "lastOpenFiles": [
+    "views/taskido/view.js",
+    "views/taskido/view.css",
+    "views/taskido",
+    "views",
+    "Nieuwe map",
+    "🏠 Home/🔧 Settings.md",
+    "🏠 Home/🏠 Home.md",
+    "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
+    "🗂️ Templates/🗂️ Templates.md",
+    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+    "javascript/scripts/Script - Generate Id.js",
+    "javascript/classes/pageTemplates.js",
     "javascript/classes/homePage.js",
     "javascript/scripts",
     "javascript/Nieuwe map",
     "javascript/classes",
-    "javascript",
-    "Nieuwe map",
-    "🏠 Home/🏠 Home.md",
     "🗂️ Templates/World of Warcraft/🐎 Mount Template.md",
-    "🗂️ Templates/🗂️ Templates.md",
-    "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
     "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
-    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
     "🐉 World Of Warcraft/✏️ Characters/✏️ Characters.md",
     "🐉 World Of Warcraft/📁 Collections/🐕 Pets/🐕 Pets.md",
     "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/👒 Transmogs.md",
     "🐉 World Of Warcraft/📁 Collections/🧸 Toys/🧸 Toys.md",
-    "🏠 Home/🔧 Settings.md",
-    "🐉 World Of Warcraft/📁 Collections/🧸 Toys",
-    "🐉 World Of Warcraft/📁 Collections/🐕 Pets",
-    "🐉 World Of Warcraft/📁 Collections/👒 Transmogs",
-    "🔧 Settings",
-    "🏠 Home",
     "🗂️ Templates/📚 DnD templates/✏️ Character.md",
     "🐉 World Of Warcraft/Collections/Mounts.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
