@@ -35,14 +35,16 @@
       "name": "Add 👒 Transmog (WoW)",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "🐉 World Of Warcraft/📁 Collections/👒 Transmogs"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false

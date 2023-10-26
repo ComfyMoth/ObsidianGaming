@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
+                "file": "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/Cycle Armor - Druid.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8df99805e968e9f7",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
+                "file": "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/Cycle Armor - Druid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
+                "file": "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/Cycle Armor - Druid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md"
+                "file": "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/Cycle Armor - Druid.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "1df08e0f702a982f",
   "lastOpenFiles": [
-    "🗂️ Templates/🐉 World of Warcraft templates/🐎 Mount Template.md",
     "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
+    "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/Cycle Armor - Druid.md",
+    "🗂️ Templates/🐉 World of Warcraft templates/🐎 Mount Template.md",
     "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/👒 Transmogs.md",
     "🐉 World Of Warcraft/📁 Collections/🐕 Pets/🐕 Pets.md",
     "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
@@ -245,7 +246,6 @@
     "📕 DnD/✏️ Characters/✏️ Characters.md",
     "Sources/📷 Images/Pasted image 20231025093706.png",
     "🗂️ Templates/Color hexes.md",
-    "📕 DnD/Classes/Wizard.md",
     "Sources/📷 Images/Pasted image 20231019173737.png",
     "Sources/📷 Images/Pasted image 20231019173725.png",
     "Sources/📷 Images/Pasted image 20231019173653.png"
