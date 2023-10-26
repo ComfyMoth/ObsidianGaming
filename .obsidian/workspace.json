@@ -97,8 +97,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠 Home/🏠 Home.md",
-                "mode": "preview",
+                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 Home/🏠 Home.md",
+                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠 Home/🏠 Home.md",
+                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠 Home/🏠 Home.md"
+                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md"
               }
             }
           },
@@ -293,22 +293,21 @@
   },
   "active": "1df08e0f702a982f",
   "lastOpenFiles": [
+    "🗂️ Templates/🗂️ Templates.md",
+    "views/milestone-dashboard/view.js",
+    "views/milestone-dashboard",
+    "views/project-dashboard/view.js",
+    "views/project-dashboard",
+    "🏠 Home/🏠 Home.md",
     "views/taskido/view.js",
     "views/taskido/view.css",
     "views/taskido",
     "views",
     "Nieuwe map",
     "🏠 Home/🔧 Settings.md",
-    "🏠 Home/🏠 Home.md",
     "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
-    "🗂️ Templates/🗂️ Templates.md",
     "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
     "javascript/scripts/Script - Generate Id.js",
-    "javascript/classes/pageTemplates.js",
-    "javascript/classes/homePage.js",
-    "javascript/scripts",
-    "javascript/Nieuwe map",
-    "javascript/classes",
     "🗂️ Templates/World of Warcraft/🐎 Mount Template.md",
     "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
     "🐉 World Of Warcraft/✏️ Characters/✏️ Characters.md",
