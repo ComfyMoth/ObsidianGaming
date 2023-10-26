@@ -89,6 +89,36 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "09dc7ef7-16a1-443e-b9c3-7be085b16734",
+      "name": "Add 🐕 Pet (WoW)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "🗂️ Templates/🐉 World of Warcraft templates/🐕 Pet Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "🐉 World Of Warcraft/📁 Collections/🐕 Pets"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],
