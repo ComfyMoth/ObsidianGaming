@@ -1,6 +1,8 @@
 ---
 Version: "1"
 Date created: 2023-10-19
+tags:
+  - Hub/WorldOfWarcraft
 ---
 # Characters
 ---
