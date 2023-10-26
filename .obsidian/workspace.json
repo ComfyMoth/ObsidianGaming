@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂️ Templates/World of Warcraft/🐎 Mount Template.md",
+                "file": "🗂️ Templates/🐉 World of Warcraft templates/🐎 Mount Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+                "file": "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+                "file": "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+                "file": "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐉 World Of Warcraft/🐉 World Of Warcraft.md"
+                "file": "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md"
               }
             }
           },
@@ -292,9 +292,17 @@
   },
   "active": "1df08e0f702a982f",
   "lastOpenFiles": [
-    "🏠 Home/🏠 Home.md",
-    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+    "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/👒 Transmogs.md",
+    "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
+    "🐉 World Of Warcraft/📁 Collections/🧸 Toys/🧸 Toys.md",
+    "🐉 World Of Warcraft/📁 Collections/🐕 Pets/🐕 Pets.md",
+    "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
+    "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
+    "📕 DnD/📕 DnD.md",
+    "🐉 World Of Warcraft/✏️ Characters/✏️ Characters.md",
     "🗂️ Templates/🗂️ Templates.md",
+    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
+    "🏠 Home/🏠 Home.md",
     "views/milestone-dashboard/view.js",
     "views/milestone-dashboard",
     "views/project-dashboard/view.js",
@@ -305,14 +313,8 @@
     "views",
     "Nieuwe map",
     "🏠 Home/🔧 Settings.md",
-    "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
     "javascript/scripts/Script - Generate Id.js",
-    "🗂️ Templates/World of Warcraft/🐎 Mount Template.md",
-    "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
-    "🐉 World Of Warcraft/✏️ Characters/✏️ Characters.md",
-    "🐉 World Of Warcraft/📁 Collections/🐕 Pets/🐕 Pets.md",
-    "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/👒 Transmogs.md",
-    "🐉 World Of Warcraft/📁 Collections/🧸 Toys/🧸 Toys.md",
+    "🗂️ Templates/🐉 World of Warcraft templates/🐎 Mount Template.md",
     "🗂️ Templates/📚 DnD templates/✏️ Character.md",
     "🐉 World Of Warcraft/Collections/Mounts.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's Spellbook.md",
@@ -328,7 +330,6 @@
     "Sources/📷 Images/Pasted image 20231025093706.png",
     "🗂️ Templates/Color hexes.md",
     "📕 DnD/Classes/Wizard.md",
-    "📕 DnD/📕 DnD.md",
     "Sources/📷 Images/Pasted image 20231019173737.png",
     "Sources/📷 Images/Pasted image 20231019173725.png",
     "Sources/📷 Images/Pasted image 20231019173653.png"
