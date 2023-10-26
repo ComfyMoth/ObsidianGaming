@@ -59,6 +59,36 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "b448a2c2-aeec-4ee4-8074-f3f3cfdcfda8",
+      "name": "Add 🐎 Mount (WoW)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "🗂️ Templates/🐉 World of Warcraft templates/🐎 Mount Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "🐉 World Of Warcraft/📁 Collections/🐎 Mounts"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],
