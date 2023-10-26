@@ -14,7 +14,7 @@ _Due to their preference for dark caves and murky waters, sightings of this uniq
 **Notes**:
 This green salamanther, without gills or fins, is a rare drop from most or all of the rare NPCs in the Forbidden Reach.
 
-**Matching Companion Pet(s)**:
+**Matching Companion Pet(s)**: [[Palamanther]]
 
 **Sources**:
 - [WoWHead](https://www.wowhead.com/item=192772/ancient-salamanther#comments)

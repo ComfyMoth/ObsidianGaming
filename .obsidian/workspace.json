@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐉 World Of Warcraft/📁 Collections/🐕 Pets/Palamanther.md",
+                "file": "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/Ancient Salamanther.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐉 World Of Warcraft/📁 Collections/🐕 Pets/Palamanther.md",
+                "file": "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/Ancient Salamanther.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐉 World Of Warcraft/📁 Collections/🐕 Pets/Palamanther.md",
+                "file": "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/Ancient Salamanther.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐉 World Of Warcraft/📁 Collections/🐕 Pets/Palamanther.md"
+                "file": "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/Ancient Salamanther.md"
               }
             }
           },
@@ -233,23 +233,28 @@
   },
   "active": "90d1c041127b0229",
   "lastOpenFiles": [
-    "🗂️ Templates/🐉 World of Warcraft templates/🐕 Pet Template.md",
+    "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/👒 Transmogs.md",
     "🐉 World Of Warcraft/📁 Collections/🐕 Pets/Palamanther.md",
+    "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/Ancient Salamanther.md",
+    "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
+    "Sources/📷 Images/Pasted image 20231026214628.png",
+    "Sources/📷 Images/Pasted image 20231026214622.png",
+    "Sources/📷 Images/Pasted image 20231026214615.png",
+    "Sources/📷 Images/Pasted image 20231026214606.png",
+    "Sources/📷 Images/Pasted image 20231026214455.png",
+    "Sources/📷 Images/Pasted image 20231026214447.png",
+    "🗂️ Templates/🐉 World of Warcraft templates/🐕 Pet Template.md",
     "Sources/📷 Images/Pasted image 20231026214319.png",
     "🐉 World Of Warcraft/📁 Collections/🐕 Pets/🐕 Pets.md",
     "🗂️ Templates/🐉 World of Warcraft templates/🐎 Mount Template.md",
     "🐉 World Of Warcraft/📁 Collections/🧸 Toys/🧸 Toys.md",
     "🗂️ Templates/🐉 World of Warcraft templates/🧸 Toy Template.md",
-    "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
-    "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/Ancient Salamanther.md",
     "🗂️ Templates/🐉 World of Warcraft templates/👒 Transmog template.md",
     "Sources/📷 Images/Pasted image 20231026213517.png",
     "Sources/📷 Images/Pasted image 20231026213442.png",
     "Sources/📷 Images/Pasted image 20231026213435.png",
-    "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/👒 Transmogs.md",
     "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/🍂 Druid transmogs/Cycle Armor.md",
     "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/🏹 Hunter transmog",
-    "Sources/📷 Images/Pasted image 20231026212628.png",
     "🐉 World Of Warcraft/📁 Collections/👒 Transmogs/🍂 Druid transmogs",
     "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
     "🏠 Home/🔧 Settings.md",
@@ -272,11 +277,6 @@
     "📕 DnD/✏️ Characters/🕷️ Ceridywn/Ceridywn Character Sheet.md",
     "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's character sheet.md",
     "📕 DnD/✏️ Characters/🕷️ Ceridywn/🕷️ Ceridywn.md",
-    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md",
-    "Sources/📷 Images/Pasted image 20231025095528.png",
-    "Sources/📷 Images/Pasted image 20231025093706.png",
-    "Sources/📷 Images/Pasted image 20231019173737.png",
-    "Sources/📷 Images/Pasted image 20231019173725.png",
-    "Sources/📷 Images/Pasted image 20231019173653.png"
+    "📕 DnD/✏️ Characters/🍂 Fernweh/Fernweh's DnD sheet.md"
   ]
 }
