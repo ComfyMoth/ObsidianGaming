@@ -1,12 +1,14 @@
 ---
 Introduced in: 
 tags: 
+Class: 
 Requires: 
 Armor type: 
 How to get:
 ---
 # (name)
 ---
+
 **Set**:
 - [ ] **Head**:
 - [ ] **Shoulder**:

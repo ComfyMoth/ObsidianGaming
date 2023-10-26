@@ -2,13 +2,14 @@
 Introduced in: Mists of Pandaria
 tags:
   - 👒/🟥
+Class: Druid
 Requires: lvl 35
 Armor type: Leather
 How to get: Achievement
 ---
 # Cycle Armor
 ---
-![]()
+![[Pasted image 20231026212628.png|300]]
 **Set**:
 - [ ] **Head**: Hood of the Cycle
 - [ ] **Shoulder**: Branches of the Cycle
