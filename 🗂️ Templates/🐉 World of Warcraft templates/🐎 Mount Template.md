@@ -1,7 +1,6 @@
 ---
 Introduced in: 
-Collected: 
+tags: 
 Available: 
-Obtained how?:
+How to get:
 ---
-e

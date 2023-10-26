@@ -1,18 +1,20 @@
 ---
-tags: []
-Requires: LVL 35
-Sold by: Vendors
-Type: Leather
-Expansion:
+Introduced in: 
+tags: 
+Requires: 
+Armor type: 
+How to get:
 ---
 # (name)
 ---
-Set:
+**Set**:
 - [ ] **Head**:
 - [ ] **Shoulder**:
 - [ ] **Chest**:
 - [ ] **Waist**:
 - [ ] **Legs**:
-- [ ] Wrist
-- [ ] Feet
-- [ ] Hands:
+- [ ] **Wrist**:
+- [ ] **Feet**:
+- [ ] **Hands**:
+
+**How to get**:

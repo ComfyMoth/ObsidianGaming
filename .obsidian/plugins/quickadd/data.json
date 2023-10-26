@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "75265528-e971-40f2-b255-7ab4d31a3d25",
-      "name": "Add ✏️ Character",
+      "name": "Add ✏️ Character (DnD)",
       "type": "Template",
       "command": true,
       "templatePath": "🗂️ Templates/📚 DnD templates/✏️ Character.md",
@@ -15,6 +15,34 @@
         "folders": [
           "📕 DnD/✏️ Characters"
         ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "d3b9e222-685c-4509-98ae-d4541578aca0",
+      "name": "Add 👒 Transmog (WoW)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
