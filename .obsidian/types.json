@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "version": "number",
-    "Date created": "text"
+    "Date created": "text",
+    "Got it?": "checkbox"
   }
 }
