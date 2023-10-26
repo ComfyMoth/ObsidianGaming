@@ -274,8 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,12 +292,13 @@
   },
   "active": "1df08e0f702a982f",
   "lastOpenFiles": [
+    "🏠 Home/🏠 Home.md",
+    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
     "🗂️ Templates/🗂️ Templates.md",
     "views/milestone-dashboard/view.js",
     "views/milestone-dashboard",
     "views/project-dashboard/view.js",
     "views/project-dashboard",
-    "🏠 Home/🏠 Home.md",
     "views/taskido/view.js",
     "views/taskido/view.css",
     "views/taskido",
@@ -306,7 +306,6 @@
     "Nieuwe map",
     "🏠 Home/🔧 Settings.md",
     "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
-    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
     "javascript/scripts/Script - Generate Id.js",
     "🗂️ Templates/World of Warcraft/🐎 Mount Template.md",
     "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
