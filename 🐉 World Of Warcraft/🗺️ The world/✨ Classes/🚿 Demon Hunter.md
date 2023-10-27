@@ -1,4 +1,4 @@
 ---
 tags:
-  - Hub/WorldOfWarcraft/Theworld/Classes/DemonHunter
+  - Hub/WorldOfWarcraft/TheWorld/Classes/DemonHunter
 ---
