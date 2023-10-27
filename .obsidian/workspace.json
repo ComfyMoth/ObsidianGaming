@@ -310,8 +310,8 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "periodic-notes:Open this week": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open this week": false
     }
   },
   "active": "540d81fc98bad0c7",
