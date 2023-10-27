@@ -14,7 +14,7 @@ tags:
 # Calendar 2023
 ---
 ## October
-- [x] WoW |  Hallows End ends ⏳ 2023-10-31 ✅ 2023-10-27
+- [ ] WoW |  Hallows End ends ⏳ 2023-10-31
 
 ## November
 - [ ] WoW | Day of Dead begins ⏳ 2023-11-01
