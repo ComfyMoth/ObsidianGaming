@@ -1,13 +1,12 @@
 ---
 tags:
-  - Hub/WorldOfWarcraft/Characters/Hireath
+  - Hub/WorldOfWarcraft/Characters/CozyRosti
 Active: true
-Class: Hunter
+Class: Druid
 Race: Night Elf
 Alliance/Horde: Alliance
 Realm: The Maelstrom
 ---
-![[Pasted image 20231027193201.png]]
 # General
 ---
 **Name**:

@@ -6,9 +6,7 @@ Race:
 Alliance/Horde: 
 Realm:
 ---
-# (Name)
----
-## General
+# General
 ---
 **Name**:
 **Title**:
