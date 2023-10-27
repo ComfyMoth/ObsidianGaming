@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🚿 Demon Hunter.md",
+                "file": "🐉 World Of Warcraft/🗺️ The world/✂️ Professions/✂️ Professions.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Hub/WorldOfWarcraft/TheWorld/Classes/Hunter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🚿 Demon Hunter.md",
+                "file": "🐉 World Of Warcraft/🗺️ The world/✂️ Professions/✂️ Professions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🚿 Demon Hunter.md",
+                "file": "🐉 World Of Warcraft/🗺️ The world/✂️ Professions/✂️ Professions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🚿 Demon Hunter.md"
+                "file": "🐉 World Of Warcraft/🗺️ The world/✂️ Professions/✂️ Professions.md"
               }
             }
           },
@@ -207,15 +207,22 @@
   },
   "active": "540d81fc98bad0c7",
   "lastOpenFiles": [
+    "🐉 World Of Warcraft/🗺️ The world/✨ Classes/✨ Classes.md",
+    "🐉 World Of Warcraft/🗺️ The world/📜 Reputations/📜 Reputations.md",
+    "🐉 World Of Warcraft/🗺️ The world/📯 Raids/📯 Raids.md",
+    "🐉 World Of Warcraft/✏️ Characters/✏️ Characters.md",
+    "🐉 World Of Warcraft/🗺️ The world/🗺️ The world.md",
+    "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🔨 Warrior.md",
+    "🐉 World Of Warcraft/🗺️ The world/✨ Classes/😈 Warlock.md",
+    "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🌧️ Shaman.md",
+    "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🍃 Druid.md",
+    "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🚿 Demon Hunter.md",
     "🐉 World Of Warcraft/🗺️ The world/✨ Classes/💣 Rogue.md",
     "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🕯️ Priest.md",
     "🐉 World Of Warcraft/🗺️ The world/✨ Classes/💡 Paladin.md",
-    "🐉 World Of Warcraft/🗺️ The world/✨ Classes/✨ Classes.md",
     "🐉 World Of Warcraft/🗺️ The world/✂️ Professions/✂️ Professions.md",
-    "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🍃 Druid.md",
     "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🔮 Mage.md",
     "🐉 World Of Warcraft/🗺️ The world/✨ Classes/Untitled",
-    "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🚿 Demon Hunter.md",
     "🐉 World Of Warcraft/🗺️ The world/✨ Classes/💀 Death Knight.md",
     "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🐼 Monk.md",
     "🐉 World Of Warcraft/🗺️ The world/✨ Classes/🏹 Hunter.md",
@@ -225,16 +232,9 @@
     "🗂️ Templates/🐉 World of Warcraft templates/✏️ Character Template.md",
     "🐉 World Of Warcraft/✏️ Characters/🍃.md",
     "🐉 World Of Warcraft/✏️ Characters/🏹 Hireath.md",
-    "🐉 World Of Warcraft/✏️ Characters/✏️ Characters.md",
     "🐉 World Of Warcraft/📁 Collections/📁 Collections.md",
     "Sources/📷 Images/Pasted image 20231027193201.png",
     "🏠 Home/🏠 Home.md",
-    "🐉 World Of Warcraft/🗺️ The world/📯 Raids/📯 Raids.md",
-    "🐉 World Of Warcraft/🗺️ The world/📜 Reputations/📜 Reputations.md",
-    "🐉 World Of Warcraft/🗺️ The world/🗺️ The world.md",
-    "🐉 World Of Warcraft/🐉 World Of Warcraft.md",
-    "🐉 World Of Warcraft/📁 Collections/🐎 Mounts/🐎 Mounts.md",
-    "🐉 World Of Warcraft/📁 Collections/🐕 Pets/🐕 Pets.md",
     "🐉 World Of Warcraft/🗺️ The world/✨ Classes",
     "🐉 World Of Warcraft/🗺️ The world/✂️ Professions",
     "🐉 World Of Warcraft/🗺️ The world/📜 Reputations/DragonFlight Reputations",
