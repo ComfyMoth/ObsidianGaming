@@ -3,7 +3,8 @@ Introduced in:
 tags: 
 Available: 
 How to get: 
-Type:
+Type: 
+Difficulty:
 ---
 # (Name)
 ---

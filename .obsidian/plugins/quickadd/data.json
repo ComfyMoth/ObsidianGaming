@@ -119,6 +119,96 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "2198e1f4-905c-42e2-ba28-852f2917bebd",
+      "name": "Add 🐲 Dragonriding (WoW)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "🗂️ Templates/🐉 World of Warcraft templates/🐲 Dragonriding Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "🐉 World Of Warcraft/📁 Collections/🐲 Dragonriding"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "edb16adf-123c-419c-9e8c-9a88d83cef0e",
+      "name": "Add ✂️ Profession (WoW)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "🗂️ Templates/🐉 World of Warcraft templates/✂️ Profession Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "🐉 World Of Warcraft/🗺️ The world/✂️ Professions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "e72f9bbc-f097-4946-97b2-f49497f59a3f",
+      "name": "Add ✏️ Character (WoW)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "🗂️ Templates/🐉 World of Warcraft templates/✏️ Character Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "🐉 World Of Warcraft/✏️ Characters"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],

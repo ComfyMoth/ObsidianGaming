@@ -2,7 +2,8 @@
 Introduced in: 
 tags: 
 Available: 
-How to get:
+How to get: 
+Difficulty:
 ---
 # (name)
 ---

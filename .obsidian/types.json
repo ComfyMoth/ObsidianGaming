@@ -5,6 +5,7 @@
     "tags": "tags",
     "version": "number",
     "Date created": "text",
-    "Got it?": "checkbox"
+    "Got it?": "checkbox",
+    "Active": "checkbox"
   }
 }

@@ -4,7 +4,8 @@ tags:
 Class: 
 Requires: 
 Armor type: 
-How to get:
+How to get: 
+Difficulty:
 ---
 # (name)
 ---
