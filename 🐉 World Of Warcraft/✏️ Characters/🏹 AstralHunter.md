@@ -18,8 +18,8 @@ Realm: The Maelstrom
 **Item Level**: 418
 
 **Professions**:
-- Leatherworking (18/100)
-- Skinning (100/100)
+- [[Leatherworking]] (18/100)
+- [[Skinning]] (100/100)
 
 - Cooking (1/100)
 - Fishing (100/100)
