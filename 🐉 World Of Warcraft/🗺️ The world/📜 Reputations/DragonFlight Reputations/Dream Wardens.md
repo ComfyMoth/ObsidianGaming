@@ -36,7 +36,7 @@ Renown Level: "0"
 
 - [ ] level 8
 - **Blooming Proficiency 2**: You may have one additional Dreamfruit power during Superbloom events. <span style="color:#06c8f4">Account-wide unlock</span>
-- **Drake's Dreaming Crest**: Speak to [[Keeper Amrymn]] at the Central Encampment to receive 15x [[Drake's Dreaming Crest]], which can be used to increase an item's itel level up to ilvl 463
+- **Drake's Dreaming Crest**: Speak to [[Keeper Amrymn]] at the Central Encampment to receive 15x [[Drake's Dreaming Crest]], which can be used to increase an item's level up to ilvl 463
 - **Flightstones**: Speak with [[Keeper Amrymn]] at the Central Encampment to receive 75x [[Flightstones]]. flightstones are used to empower Dragonflight Equipment at Item Upgrade NPC's
 
 - [ ] level 9
