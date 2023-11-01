@@ -78,8 +78,8 @@ Renown Level: "0"
 - **Proper Cultivation**: You may now purchase cosmetic Dream Warden tool transmogs from [[Moon Priestess Lasara]] <span style="color:#06c8f4">Account-wide unlock</span>
 
 - [ ] level 17
-- **Riding Through Fields of Green**: You
-- **Gigantic Dreamseeds**:
+- **Riding Through Fields of Green**: You may purchase the [[Suntouched Dreamstag]] and [[Lunar Dreamstag]] from [[Moon Priestess Lasara]] at the Central Encampment. <span style="color:#06c8f4">Account-wide unlock</span>
+- **Gigantic Dreamseeds**: Speak to [[Sylvia Whisperbloom]] at the Wildling Garden to obtain [[Gigantic Dreamseed]] that can be planted in Emerald Bounties.
 
 - [ ] level 18
 - **Attuned with Nature**:
