@@ -4,6 +4,7 @@ Got it?: false
 Renown Level: "0"
 ---
 # List of Renown Rewards
+---
 - [ ] level 1
 - **Standing with the dream**: You begin to gain renown with the Dream Wardens. <span style="color:#06c8f4">Account-wide unlock</span> 
 
@@ -87,5 +88,15 @@ Renown Level: "0"
 
 - [ ] level 19
 - **Drake's Dreaming Crest**:
-- **Flourishing Whimsydrake S 
+- **Flourishing Whimsydrake Scales**:
+- **Flightstones**:
+
 - [ ] level 20
+- **A heroic Reward**:
+- **Through the Starry Skies**:
+- **Essence of a Worthy Ally**:
+- **Dreamseeds**:
+
+# Source(s)
+---
+- [WoWhead](https://www.wowhead.com/guide/reputation/dream-wardens-renown-rewards)
