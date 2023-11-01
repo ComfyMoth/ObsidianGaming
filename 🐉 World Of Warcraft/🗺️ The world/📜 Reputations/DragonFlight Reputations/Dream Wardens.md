@@ -46,7 +46,7 @@ Renown Level: "0"
 - [ ] level 10
 - **In your Dreams**: Purchase the [[Dream Wardens Tabard]] from [[Keeper Amrymn]] at the Central Encampment. <span style="color:#06c8f4">Account-wide unlock</span>
 
-- [ ] level 11
+- [ ] level 11 ^fb7424
 - **Touching grass**: You may now find bigger treasures in the Emerald Dream <span style="color:#06c8f4">Account-wide unlock</span>
 - **Bountifull Pets**: You may now purchase Emerald Bounty pets from specific vendors in the Emerald Dream
 
@@ -81,7 +81,7 @@ Renown Level: "0"
 - **Riding Through Fields of Green**: You may purchase the [[Suntouched Dreamstag]] and [[Lunar Dreamstag]] from [[Moon Priestess Lasara]] at the Central Encampment. <span style="color:#06c8f4">Account-wide unlock</span>
 - **Gigantic Dreamseeds**: Speak to [[Sylvia Whisperbloom]] at the Wildling Garden to obtain [[Gigantic Dreamseed]] that can be planted in Emerald Bounties.
 
-- [ ] level 18
+- [ ] level 18 ^5abe43
 - **Attuned with Nature**: Speak with [[Elianna]] at the Central Encampment to receive a Dream Infusion, used to purchase one of her cosmetic items. <span style="color:#06c8f4">Account-wide unlock</span>
 - **Bountiful Mounts**: You may now purchase Emerald Bounty mounts from specific vendors in the Emerald Dream
 - **Dreambound Power**: You may now purchase the [[Dreambound Augment Rune]] from [[Moon Priestess Lasara]] at the Central Encampment. <span style="color:#06c8f4">Account-wide unlock</span>
