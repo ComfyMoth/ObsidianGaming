@@ -47,11 +47,28 @@ _Snoozles was once given a choice between life in the timeless beautiful snowfie
 ## [[Blossoming Dreamstag]]
 - [ ] Collected?
 Cost: 1x [[Seedbloom]]
-![](https://wow.zamimg.com/modelviewer/ptr2/webthumbs/npc-row/234/114666.jpg)
+![](https://wow.zamimg.com/modelviewer/ptr2/webthumbs/npc-row/113/114289.jpg)
 
 ## [[Rekindled Dreamstag]]
 - [ ] Collected?
 Cost: 1x [[Seedbloom]]
-![](https://wow.zamimg.com/modelviewer/ptr2/webthumbs/npc-row/234/114666.jpg)
+![](https://wow.zamimg.com/modelviewer/ptr2/webthumbs/npc-row/116/114292.jpg)
 ## [[Evening Sun Dreamsaber]]
-- []
+- [ ] Collected?
+Cost: 1x [[Seedbloom]]
+![](https://wow.zamimg.com/modelviewer/ptr2/webthumbs/npc-row/199/114375.jpg)
+
+## [[Morning Flourish Dreamsaber]]
+- [ ] Collected?
+Cost: 1x [[Seedbloom]]
+![](https://wow.zamimg.com/modelviewer/ptr2/webthumbs/npc-row/200/114376.jpg)
+
+## [[Snowfluff Dreamtalon]]
+- [ ] Collected?
+Cost: 1x [[Seedbloom]]
+![](https://wow.zamimg.com/modelviewer/ptr2/webthumbs/npc-row/219/114907.jpg)
+
+## [[Springtide Dreamtalon]]
+- [ ] Collected?
+Cost: 1x [[Seedbloom]]
+![](https://wow.zamimg.com/modelviewer/ptr2/webthumbs/npc-row/205/114893.jpg)
