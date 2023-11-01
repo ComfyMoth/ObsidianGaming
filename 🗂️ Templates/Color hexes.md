@@ -1,3 +1,8 @@
+# World of Warcraft
+<span style="color:#06c8f4">Account-wide unlock</span>
+<span style="color:#1ac70b">Green item</span>
+
+# DnD
 <span style="color:#f4641e">STR (strength)</span> (oranje)
 <span style="color:#a364d9">DEX (dexterity)</span> (purple)
 <span style="color:#db3937">CON (constitution)</span> (red)
