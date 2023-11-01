@@ -73,9 +73,9 @@ Renown Level: "0"
 - **Flightstones**: Speak with [[Keeper Amrymn]] at the Central Encampment to receive 75x [[Flightstones]]. 
 
 - [ ] level 16
-- **Blooming Expertise**:
-- **Keeper's Visage**:
-- **Proper Cultivation**:
+- **Blooming Expertise**: You may now see more Dreamfruit powers during Superbloom events <span style="color:#06c8f4">Account-wide unlock</span>
+- **Keeper's Visage**: Obtain the [[Ensemble: Elegant Green Dragon Outwear]] from [[Moon Priestess Lasara]]. <span style="color:#06c8f4">Account-wide unlock</span>
+- **Proper Cultivation**: You may now purchase cosmetic Dream Warden tool transmogs from [[Moon Priestess Lasara]] <span style="color:#06c8f4">Account-wide unlock</span>
 
 - [ ] level 17
 - **Riding Through Fields of Green**
