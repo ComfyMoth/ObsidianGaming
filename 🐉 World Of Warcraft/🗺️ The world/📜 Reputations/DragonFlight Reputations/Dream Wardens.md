@@ -46,9 +46,20 @@ Renown Level: "0"
 - **In your Dreams**: Purchase the [[Dream Wardens Tabard]] from [[Keeper Amrymn]] at the Central Encampment. <span style="color:#06c8f4">Account-wide unlock</span>
 
 - [ ] level 11
-- **Touching grass**: You may now find bigger treasures in the Emerald Dream
+- **Touching grass**: You may now find bigger treasures in the Emerald Dream <span style="color:#06c8f4">Account-wide unlock</span>
+- **Bountifull Pets**: You may now purchase Emerald Bounty pets from specific vendors in the Emerald Dream
+
 - [ ] level 12
+- **Blooming Profiency 3**: You may have one additional Dreamfruit power during Superbloom Events <span style="color:#06c8f4">Account-wide unlock</span>
+- **Drake's Dreaming Crest**: Speak to [[Keeper Amrymn]] at the Central Encampment to receive 15x [[Drake's Dreaming Crest]], which can be used to increase an item's item level up to ilvl 463
+- **Flightstones**: Speak with [[Keeper Amrymn]] at the Central Encampment to receive 75x [[Flightstones]]. 
+
 - [ ] level 13
+- **Drakewatcher Manuscripts 2**: Purchase snouts, fins and horn Flourishing Whimsydrake customizations from [[Moon Priestess Lasara]] at the Central Encampment (<span style="color:#06c8f4">Account-wide unlock</span>):
+	- Flourishing Whimsydrake: Long Snout
+	- Flourishing Whimsydrake: Neck Fins
+	- Flourishing Whimsydrake: Horns
+
 - [ ] level 14
 - [ ] level 15
 - [ ] level 16
