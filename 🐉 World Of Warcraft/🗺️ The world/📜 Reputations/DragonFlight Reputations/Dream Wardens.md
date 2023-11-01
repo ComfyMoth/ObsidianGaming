@@ -82,9 +82,9 @@ Renown Level: "0"
 - **Gigantic Dreamseeds**: Speak to [[Sylvia Whisperbloom]] at the Wildling Garden to obtain [[Gigantic Dreamseed]] that can be planted in Emerald Bounties.
 
 - [ ] level 18
-- **Attuned with Nature**:
-- **Bountiful Mounts**:
-- **Dreambound Power**:
+- **Attuned with Nature**: Speak with [[Elianna]] at the Central Encampment to receive a Dream Infusion, used to purchase one of her cosmetic items. <span style="color:#06c8f4">Account-wide unlock</span>
+- **Bountiful Mounts**: You may now purchase Emerald Bounty mounts from specific vendors in the Emerald Dream
+- **Dreambound Power**: You may now purchase the [[Dreambound Augment Rune]] from [[Moon Priestess Lasara]]
 
 - [ ] level 19
 - **Drake's Dreaming Crest**:
