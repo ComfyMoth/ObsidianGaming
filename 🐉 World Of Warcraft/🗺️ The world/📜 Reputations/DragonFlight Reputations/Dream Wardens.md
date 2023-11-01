@@ -61,6 +61,31 @@ Renown Level: "0"
 	- Flourishing Whimsydrake: Horns
 
 - [ ] level 14
+- **Nature's Regalia 2**: Purchase ilvl454 helms from [[Moon Priestess Lasara]] at the Central Encampment:
+	- [[Mycelial Fabric Sandals]]
+	- [[Scent-masking Moccasins]]
+	- [[Sulfuric Crystal Boots]]
+	- [[Speleothemic Footguards]]
+
 - [ ] level 15
+- **A friend in the Dream**: Obtain the [[Spruce]] and [[Juniper]] Battle pets from [[Moon Priestess Lasara]] at the Central Encampment (<span style="color:#06c8f4">Account-wide unlock</span>)
+- **Flightstones**: Speak with [[Keeper Amrymn]] at the Central Encampment to receive 75x [[Flightstones]]. 
+
 - [ ] level 16
+- **Blooming Expertise**:
+- **Keeper's Visage**:
+- **Proper Cultivation**:
+
 - [ ] level 17
+- **Riding Through Fields of Green**
+- **Gigantic Dreamseeds**:
+
+- [ ] level 18
+- **Attuned with Nature**:
+- **Bountiful Mounts**:
+- **Dreambound Power**:
+
+- [ ] level 19
+- **Drake's Dreaming Crest**:
+- **Flourishing Whimsydrake S 
+- [ ] level 20
