@@ -84,18 +84,20 @@ Renown Level: "0"
 - [ ] level 18
 - **Attuned with Nature**: Speak with [[Elianna]] at the Central Encampment to receive a Dream Infusion, used to purchase one of her cosmetic items. <span style="color:#06c8f4">Account-wide unlock</span>
 - **Bountiful Mounts**: You may now purchase Emerald Bounty mounts from specific vendors in the Emerald Dream
-- **Dreambound Power**: You may now purchase the [[Dreambound Augment Rune]] from [[Moon Priestess Lasara]]
+- **Dreambound Power**: You may now purchase the [[Dreambound Augment Rune]] from [[Moon Priestess Lasara]] at the Central Encampment. <span style="color:#06c8f4">Account-wide unlock</span>
 
 - [ ] level 19
-- **Drake's Dreaming Crest**:
-- **Flourishing Whimsydrake Scales**:
-- **Flightstones**:
+- **Drake's Dreaming Crest**: Speak to [[Keeper Amrymn]] at the Central Encampment to receive 15x [[Drake's Dreaming Crest]]
+- **Flourishing Whimsydrake Scales**: Purchase the following scales [[Flourishing Whimsydrake]] customizations from [[Moon Priestess Lasara]] <span style="color:#06c8f4">Account-wide unlock</span>
+	- Flourishing Whimsydrake: Night Scales
+	- Flourishing Whimsydrake: Sunset Scales
+- **Flightstones**: Speak with [[Keeper Amrymn]] to receive 75x [[Flightstones]]
 
 - [ ] level 20
-- **A heroic Reward**:
-- **Through the Starry Skies**:
-- **Essence of a Worthy Ally**:
-- **Dreamseeds**:
+- **A heroic Reward**: Speak with [[Keeper Amrymn]] at the Central Encampment to earn a [[Enchanted Wyrm's Dreaming Crest]]
+- **Through the Starry Skies**: Earn the [[Dream Defender]] title (<span style="color:#06c8f4">Account-wide unlock</span>)
+- **Essence of a Worthy Ally 2**: Allow other character on your account to 100% additional reputation with the Dream Wardens while their renown is below rank 20, and 200% additional reputation if below renown rank 10 (<span style="color:#06c8f4">Account-wide unlock</span>)
+- **Dreamseeds**: You may now purchase Dreamseeds to be used in Emerald Bounties directly from [[Moon Priestess Lasara]] (<span style="color:#06c8f4">Account-wide unlock</span>)
 
 # Source(s)
 ---
