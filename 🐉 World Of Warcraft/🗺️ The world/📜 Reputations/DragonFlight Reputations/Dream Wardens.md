@@ -46,6 +46,7 @@ Renown Level: "0"
 - **In your Dreams**: Purchase the [[Dream Wardens Tabard]] from [[Keeper Amrymn]] at the Central Encampment. <span style="color:#06c8f4">Account-wide unlock</span>
 
 - [ ] level 11
+- **Touching grass**: You may now find bigger treasures in the Emerald Dream
 - [ ] level 12
 - [ ] level 13
 - [ ] level 14
