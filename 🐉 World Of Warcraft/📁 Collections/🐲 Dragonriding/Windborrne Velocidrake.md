@@ -28,25 +28,50 @@ tags:
 - [ ] 5. Beaked (_Reputation reward_)
 
 **Horns**:
-- [ ] 1. Sleek
-- [ ] 2. Wavy
-- [ ] 3. Cluster
-- [ ] 4. Curved
-- [ ] 5. Ox
-- [ ] 6. Curled
-- [ ] 7. Stag
-- [ ] 
+- [x] 1. Sleek ✅ 2023-11-02
+- [ ] 2. Wavy (_Dungeon Reward_)
+- [ ] 3. Cluster (_World Drop_)
+- [x] 4. Curved ✅ 2023-11-02
+- [x] 5. Ox ✅ 2023-11-02
+- [x] 6. Curled ✅ 2023-11-02
+- [x] 7. Stag ✅ 2023-11-02
+- [ ] 8. Swept (_World Drop_)
+- [ ] 9. Split (_Quest reward_)
 
 **Horn Color**:
-- [ ] 1. 
+- [x] 1.  Black ✅ 2023-11-02
+- [ ] 2. Gray (_World Drop_)
+- [ ] 3. White (_World Drop_)
+- [x] 4. Brown ✅ 2023-11-02
+- [x] 5. Beige ✅ 2023-11-02
+- [ ] 6. Infinite (_Dawn of the Infinite_)
 
-**Horn Style**:
-- [ ] 1. Light
-- [ ] 2. Heavy
+**Crest**:
+- [x] 1. None ✅ 2023-11-02
+- [ ] 2. Large Fin (_World Drop_)
+- [x] 3. Small Fin ✅ 2023-11-02
+- [x] 4. Hair ✅ 2023-11-02
+- [x] 5. Plates ✅ 2023-11-02
+- [ ] 6. Spines (_Professions_)
+- [ ] 7. Feathers (_World Drop_)
 
 ## 02
+**Back**:
+- [x] 1. Bare ✅ 2023-11-02
+- [x] 2. Fin ✅ 2023-11-02
+- [ ] 3. Mane (_Treasure_)
+- [x] 4. Plate ✅ 2023-11-02
+- [ ] 5. Spikes (_World Drop_)
+- [x] 6. Feathers ✅ 2023-11-02
+
 **Tail**:
-- [ ] 1.
+- [x] 1. Bare ✅ 2023-11-02
+- [ ] 2. Exposed Fin (_Tuskarr Renown_)
+- [x] 3. Fin ✅ 2023-11-02
+- [x] 4. Hair ✅ 2023-11-02
+- [x] 5. Spikes ✅ 2023-11-02
+- [ ] 6. Club (_World Drop_)
+- [ ] 7. Feathers (_Dungeon Reward_)
 
 **Throat**:
 - [ ] 1. 
