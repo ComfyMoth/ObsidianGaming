@@ -15,3 +15,11 @@ Vendor: [[Giera]] | [[Valdrakken]]
 - [ ] 1x Sundered Onyx
 - [ ] 25x Tattered Wildercloth
 - [ ] 750x [[Dragon Isles Supplies]]
+
+# Crimson Valdrakken Clothing
+Vendor: [[Giera]] | [[Valdrakken]]
+- [ ] 1x Queen's Ruby
+- [ ] 25x Tattered Wildercloth
+- [ ] 750x Dragon Isles Supplies
+
+
