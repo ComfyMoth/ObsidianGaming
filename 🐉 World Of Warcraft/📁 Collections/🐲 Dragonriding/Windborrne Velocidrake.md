@@ -1,8 +1,8 @@
 ---
-Introduced in: 
+Introduced in: 10.0.0
 tags:
 ---
-# (Name)
+# Windborne Velocidrake
 ---
 ## 01
 **Full Transformation**:
@@ -73,38 +73,43 @@ tags:
 - [ ] 6. Club (_World Drop_)
 - [ ] 7. Feathers (_Dungeon Reward_)
 
-**Throat**:
-- [ ] 1. 
-
 **Body Armor**:
-- [ ] 1. None
-- [ ] 2. Saddle
-- [ ] 3. Armor
+- [x] 1. None ✅ 2023-11-02
+- [x] 2. Saddle ✅ 2023-11-02
+- [x] 3. Armor ✅ 2023-11-02
+- [x] 4. Hallow's End ✅ 2023-11-02
 
 **Armor Color**:
-- [ ] 1. Gold and Black
-- [ ] 2. Silver and Blue
-- [ ] 3. White and Gold
-- [ ] 4. Green and Gold
-- [ ] 6. Gold and Red
-- [ ] 7
-- [ ] 7. Steel and Yellow
+- [x] 1. Gold and Black ✅ 2023-11-02
+- [ ] 2. Silver and Blue (_Professions_)
+- [ ] 3. Steel and Orange (_Professions_)
+- [ ] 4. Gold and Red (_Achievement_)
+- [ ] 5. Silver and Purple (_Valdrakken Accord Renown_)
+- [x] 6. White? ✅ 2023-11-02
 
 ## 03 
-**Snout**:
-- [ ] 1.
-
-**Crest**:
-- [ ] 1.
+**Throat**:
+- [x] 1.  Bare ✅ 2023-11-02
+- [ ] 2. Fin (_Quest Reward_)
+- [x] 3. Hair ✅ 2023-11-02
+- [x] 4. Plates ✅ 2023-11-02
+- [x] 5. Feathers ✅ 2023-11-02
 
 **Jaw**:
-- [ ] 1.
+- [x] 1. No Detail ✅ 2023-11-02
+- [x] 2. Smal Ears ✅ 2023-11-02
+- [ ] 3. Finned Ears (_World Drop_)
+- [x] 4. Long Ears ✅ 2023-11-02
+- [x] 5. Thorns ✅ 2023-11-02
+- [x] 6. Horns ✅ 2023-11-02
 
-**Brow**:
-- [ ] 1.
-
-**Hair color**:
-- [ ] 1.
+**Fur Color**:
+- [x] 1. Brown ✅ 2023-11-02
+- [ ] 2. Black (_Professions_)
+- [x] 3. Grey brown ✅ 2023-11-02
+- [ ] 4. White (_Achievement_)
+- [x] 5. Red ✅ 2023-11-02
+- [ ] 6. infinite (_Dawn of the Infinite_)
 
 **Eyesight**:
 - [ ] 1. Both
