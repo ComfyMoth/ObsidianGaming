@@ -29,3 +29,5 @@ Items:
 - [ ] 20x Draconium Ore
 - [ ] 10x Tallstrider Sinew
 - [ ] 750 Dragon Isles Supplies
+
+3x Awakaned air
